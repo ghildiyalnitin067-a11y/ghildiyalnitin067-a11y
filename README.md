@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hi, I’m Nitin Ghildiyal<br><br>🎓 B.Tech student in Artificial Intelligence & Machine Learning at USAR<br>💻 Web Developer (Frontend) & Python Enthusiast<br>🧠 Currently exploring the world of AI & Machine Learning<br><br>🚀 Tech Skills<br><br>🌐 Frontend Web Development<br><br>🐍 Python (Pandas, NumPy)<br><br>🎯 Learning Goals<br><br>Building real-world AI/ML projects<br><br>Improving full-stack development skills<br><br>🎬 Fun Side of Me<br><br>🏸 Loves playing Badminton<br><br>🎥 Enjoys watching Movies</h4>
+<h4 align="left">👋 Hi, I’m Nitin Ghildiyal<br><br>🎓 B.Tech student in Artificial Intelligence & Machine Learning at USAR<br>💻 Web Developer (Frontend) & Python Enthusiast<br>🧠 Currently exploring the world of AI & Machine Learning<br><br>🚀 Tech Skills<br><br>🌐 Frontend Web Development<br><br>🐍 Python (Pandas, NumPy ,Matplotlib , Seaborn, streamlit)<br><br>🎯 Learning Goals<br><br>Building real-world AI/ML projects<br><br>Improving full-stack development skills<br><br>🎬 Fun Side of Me<br><br>🏸 Loves playing Badminton<br><br>🎥 Enjoys watching Movies</h4>
 
 ###
 
